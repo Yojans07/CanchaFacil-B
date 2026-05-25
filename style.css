@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'IntroRust'; /* Nombre con el que llamarás a la fuente */
+    src: url('fonts/IntroRust.otf') format('opentype'); /* Ruta del archivo */
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'IntroRust', sans-serif;
+}
